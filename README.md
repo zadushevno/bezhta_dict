@@ -1,2 +1,1 @@
-# bezhta_dict
-Supplementary repository for the bachelor thesis devoted to building a morphological parser for Bezhta
+This is supplementary repository for the bachelor thesis devoted to building a morphological parser for Bezhta. The main page of the project can be found [here](https://github.com/LingConLab/bezhta-morph/tree/main)
